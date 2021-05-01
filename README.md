@@ -1,6 +1,6 @@
 <h1 align="center">Road RAGE</h1>
 <p align="center"><img src="https://i.imgur.com/fMCVYMw.png"></p>
-<p align="center">A driving simulator designed for customizable cognitive neuroscience experiements.</p>
+<p align="center">A driving simulator designed for customizable cognitive neuroscience experiments.</p>
 
 <p align="center">
 <a href="LICENSE"><img src="https://img.shields.io/github/license/DuncanLab/RoadRAGE.svg"></a>
